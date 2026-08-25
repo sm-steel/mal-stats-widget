@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/mal.py": {
+      "maxDuration": 25
+    }
+  }
+}
