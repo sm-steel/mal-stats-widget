@@ -4,3 +4,11 @@ __pycache__/
 .env
 .venv/
 *.egg-info/
+
+.vercel
+.env*
+node_modules/
+preview/out/
+# never commit tokens/keys, even if a mistyped command writes one to a file
+y0_*
+token*.txt
