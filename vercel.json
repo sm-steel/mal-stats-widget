@@ -1,7 +1,8 @@
 {
+	"$schema": "https://openapi.vercel.sh/vercel.json",
+	"framework": null,
+	"outputDirectory": "public",
 	"functions": {
-		"api/mal.py": {
-			"maxDuration": 25
-		}
+		"api/mal.ts": { "maxDuration": 25 }
 	}
 }
